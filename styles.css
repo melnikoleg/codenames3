@@ -44,9 +44,7 @@ body.dark-theme {
     color: #cccaca;
 }
 
-body.dark-theme {
-    color: #cccaca;
-}
+
 
 .player {
     text-shadow: 0 0 0 #80808000;
@@ -547,7 +545,7 @@ body.dark-theme {
     bottom: 0;
     left: 0;
     width: 0;
-    height: 4px;
+    height: 20px;
     transition-property: none;
 }
 
@@ -751,11 +749,6 @@ body.dark-theme {
     width: initial;
 }
 
-body {
-    margin: 0;
-    background: linear-gradient(to right, rgb(244, 236, 236) 0%, #e9ecff 100%);
-    -webkit-user-drag: none;
-}
 
 @media (min-width: 768px) and (max-width: 959px) {
     .word {
